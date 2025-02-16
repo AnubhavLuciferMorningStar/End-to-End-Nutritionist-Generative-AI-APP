@@ -1,0 +1,4 @@
+python-dotenv~=1.0.1
+Streamlit~=1.42.0
+google-generativeai
+pillow~=11.1.0
